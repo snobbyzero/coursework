@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="aaa.jpg">res/aaa.jpg</file>
+        <file alias="bbb.jpg">res/bbb.jpg</file>
+        <file alias="ccc.jpg">res/ccc.jpg</file>
+        <file alias="ddd.jpg">res/ddd.jpg</file>
+        <file alias="eee.jpg">res/eee.jpg</file>
+        <file alias="fff.jpg">res/fff.jpg</file>
+    </qresource>
+</RCC>
